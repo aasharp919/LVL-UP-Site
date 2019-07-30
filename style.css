@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.jumbotron {
+    background-color: #7BA925;
+    color: #FFFFFF;
+}
+.jumbotron .lead .btn.btn-primary.btn-lg {
+    background-color: #000000;
+}
+body h2 {
+    text-align: center;
+}
+.btn.btn-primary {
+    background-color: #000000;
+}
